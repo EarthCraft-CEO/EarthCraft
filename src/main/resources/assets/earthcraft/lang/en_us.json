@@ -1,0 +1,13 @@
+{
+  "itemGroup.earthcraft": "Example Mod Tab",
+  "block.earthcraft.limestone": "Limestone",
+  "item.earthcraft.limestone_item": "Limestone",
+
+  "earthcraft.configuration.title": "EarthCraft Configs",
+  "earthcraft.configuration.section.earthcraft.common.toml": "EarthCraft Configs",
+  "earthcraft.configuration.section.earthcraft.common.toml.title": "EarthCraft Configs",
+  "earthcraft.configuration.items": "Item List",
+  "earthcraft.configuration.logDirtBlock": "Log Dirt Block",
+  "earthcraft.configuration.magicNumberIntroduction": "Magic Number Text",
+  "earthcraft.configuration.magicNumber": "Magic Number"
+}
